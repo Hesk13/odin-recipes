@@ -4,9 +4,11 @@
 }
 
 .header {
+    color: white;
     background-color: aqua;
 }
 
 .body {
+    color: white;
     background-color: blueviolet;
 }
